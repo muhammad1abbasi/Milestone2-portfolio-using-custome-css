@@ -1,8 +1,3 @@
-import Navbar from "../components/Navbar";
-import footer from "@/components/footer";
-
-
-
 export default function HomePage() {
   return ( 
     
